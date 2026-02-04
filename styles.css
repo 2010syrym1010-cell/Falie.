@@ -1,0 +1,24 @@
+p {
+   color: blue;     /*Цвет*/
+   font-size: 16px;   /*Размер*/
+}
+#header {
+   background-color: red;  /*Цвет*/
+   text-align: center;       /*Линейный Фон*/
+}
+li{
+    font-weight: bold;      /*Жирный Текст*/
+}
+/*В приоритете идет первым id потом class*/
+.hddjd{
+   color: rgb(20, 20, 83);     /*Цвет*/
+}
+.dhdhd{
+   color: rgb(72, 72, 123);    /*Цвет*/
+}
+#egdgdg{
+    color: #ff8282;           /*Цвет*/
+}
+#gdghdghd{
+    color: #ff00c3;          /*Цвет*/
+}
